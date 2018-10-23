@@ -1,0 +1,37 @@
+constants
+
+hbar(Js)
+1.054571e-34
+
+q(C)
+1.6022e-19
+
+m_scale  
+1.6605e-27
+
+tollim  
+1E-3
+
+data
+
+mr(uma)
+95.95 32.066
+
+
+NFold
+4 1 2
+
+NFold_bs
+3 1 3
+
+ixyz1_ref
+0.0 0.0 0.0
+
+NSCELL
+1 1 1
+
+Nk 
+50 0 0
+
+cutoff 
+6.8
